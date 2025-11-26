@@ -1,6 +1,6 @@
-# 💯 100 Days of DSA Challenge
+# 💯 DSA Challenge
 
-Welcome to my **100 Days of DSA** journey!  
+Welcome to my ** DSA** journey!  
 In this repository, I commit to solving one Data Structures & Algorithms problem every day — building consistency, improving logic, and sharpening problem-solving skills.
 
 ---
